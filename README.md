@@ -1,17 +1,22 @@
-# 💫 Hi 👋, I'm Anchal Sahani
+
+# 💫 Hi 👋, I'm Anchal Sahani  
 **A Web Developer**
 
-Email Me 👉 ✉️ **sahanianchal7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📩 Email Me 👉 **sahanianchal7@gmail.com** for collaboration/projects.  
 
-- 🔭 **I’m currently working on:** A Frontend Project
-- 🌱 **I’m currently learning:** Backend
+- 🔭 **I’m currently working on:** A Health Care project 
+- 🌱 **I’m currently learning:** Backend Development  
+---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🌐 Connect with Me  
+<p align="left">
+<a href="www.linkedin.com/in/anchal-sahani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sahanianchal7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-# 💻 Tech Stack:
-## 🛠 Tech Stack
+---
+
+## 🛠 Tech Stack  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -27,7 +32,12 @@ Email Me 👉 ✉️ **sahanianchal7@gmail.com** For Collaboration/Project or An
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anchalsahani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anchalsahani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>  
+---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
