@@ -1,10 +1,10 @@
 
-# 💫 Hi 👋, I'm Anchal Sahani  
+# Hi 👋, I'm Anchal Sahani  
 **A Web Developer**
 
 📩 Email Me 👉 **sahanianchal7@gmail.com** for collaboration/projects.  
 
-- 🔭 **I’m currently working on:** A Health Care project 
+- 🔭 **I’m currently working on:** Open Source Contributions
 - 🌱 **I’m currently learning:** Backend Development  
 ---
 
@@ -31,10 +31,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anchalsahani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>  
 ---
 
