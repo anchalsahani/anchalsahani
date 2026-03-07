@@ -1,106 +1,144 @@
+<!-- PROFILE HEADER -->
+
 <h1 align="center">Hi 👋, I'm Anchal Sahani</h1>
 <h3 align="center">Frontend Developer | MERN Stack | Open Source Contributor | GSoC 2026 Aspirant</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Engineer;Future+Software+Development+Engineer;Open+Source+Contributor"/>
+</p>
 
-## 🚀 About Me
-
-🎓 B.Tech Student passionate about building scalable web applications and contributing to open source.  
-💻 Frontend Developer Intern at **Zentrok Pvt. Ltd.**  
-🎯 Goal: Become a Software Development Engineer at top tech companies.  
-
-- 🔭 Currently working on **Open Source Contributions (GSoC 2026 Preparation)**
-- 🌱 Currently learning **Backend Development & System Design**
-- 💬 Ask me about **React, Next.js, MERN Stack, Frontend Development**
-- ⚡ Fun fact: I love building real-world production projects.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=anchalsahani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-## 🎯 Google Summer of Code 2026 Journey
+# 🚀 About Me
 
-- Preparing for **GSoC 2026**
-- Learning scalable architecture and clean coding practices
-- Improving open source collaboration skills
+🎓 B.Tech Student passionate about building scalable web applications.
+💻 Former **Frontend Developer Intern at Zentrok Pvt. Ltd.**
+🚀 Currently preparing for **Software Development Engineer roles**.
 
----
-
-## 💼 Experience
-
-### 🚀 Frontend Developer Intern — Zentrok Pvt. Ltd.
-- Built responsive production-ready websites
-- Developed UI components using React & Next.js
-- Improved performance and user experience
-- Collaborated using Git and modern development workflow
+* 🔭 Working on **Open Source Contributions (GSoC 2026 Preparation)**
+* 🌱 Learning **Backend Development, System Design & Scalable Architectures**
+* 💬 Ask me about **React, Next.js, MERN Stack, Frontend Development**
+* ⚡ I enjoy building **real-world production level projects**
 
 ---
 
-## 🌐 Connect with Me
+# 🎯 Google Summer of Code 2026 Journey
+
+* Preparing for **GSoC 2026**
+* Improving open source collaboration
+* Learning large codebases and contribution workflow
+* Practicing clean code & scalable system design
+
+---
+
+# 💼 Experience
+
+## 🚀 Frontend Developer Intern — Zentrok Pvt. Ltd.
+
+* Developed **production-ready responsive websites**
+* Built UI components using **React & Next.js**
+* Improved **performance and UX**
+* Collaborated with team using **Git & GitHub workflow**
+
+🌐 Websites built during internship
+
+* https://www.zentrok.com/
+* https://www.advikaphysiotherapyclinic.com/
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/anchal-sahani" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/anchal-sahani">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sahanianchal7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anchalsahani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 💻 Languages
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 
-### ⚙ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🎨 Frontend
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+## ⚙ Backend
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+## 🗄 Database
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+
+## 🧰 Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
-## 📊 GitHub Stats
+
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anchalsahani&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anchalsahani&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🌟 Featured Work
+# 🌟 Featured Work
 
-- 🔹 Production websites for real clients
-- 🔹 Open source contributions
-- 🔹 Full stack web applications
-- 🔹 Interactive UI projects
+* Production websites for real clients
+* Open source contributions
+* MERN stack applications
+* Interactive UI projects
+* Full stack web platforms
 
-👉 Check my repositories below 👇
+👉 Explore my repositories below 👇
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
-⭐ From [Anchal Sahani](https://github.com/anchalsahani)
+# ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/anchalsahani">Anchal Sahani</a>
+</p>
