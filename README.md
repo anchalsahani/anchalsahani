@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Anchal Sahani</h1>
-<h3 align="center">Frontend Developer | MERN Stack | Open Source Contributor | GSoC 2026 Aspirant</h3>
+<h3 align="center">Frontend Developer | MERN Stack | Open Source Contributor | Currently Working on a Web RTC project</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+Developer;MERN+Stack+Engineer;Future+Software+Development+Engineer;Open+Source+Contributor"/>
