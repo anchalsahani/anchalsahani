@@ -26,15 +26,6 @@
 
 ---
 
-# 🎯 Google Summer of Code 2026 Journey
-
-* Preparing for **GSoC 2026**
-* Improving open source collaboration
-* Learning large codebases and contribution workflow
-* Practicing clean code & scalable system design
-
----
-
 # 💼 Experience
 
 ## 🚀 Frontend Developer Intern — Zentrok Pvt. Ltd.
